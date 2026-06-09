@@ -16,7 +16,7 @@ PAUSA_CONEXION = 1
 
 
 # =========================================
-# FUNCIONES
+# FUNCIONES camb 1
 # =========================================
 
 def simular_conexion():
